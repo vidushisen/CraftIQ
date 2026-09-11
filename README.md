@@ -32,10 +32,15 @@ Whether you need complex dashboard layouts, sleek interactive cards, or navigati
 </div>
 <br/>
 - 🧠 AI-Assisted Generation: Transform simple conversational prompts into production-grade React components.
+
 - ⚡ Live Interactive Sandbox: Test responsiveness, interactions, and aesthetics in a live preview environment.
+ 
 - 🎨 Utility-First Styling: Clean, modern, and easily customizable styling with Tailwind CSS.
+ 
 - 📋 Seamless One-Click Copy: Copy ready-to-use JSX/HTML code directly into your clipboard.
+ 
 - 📱 Fully Responsive Layouts: Optimized out of the box for mobile, tablet, and desktop screens.
+ 
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider"/>
