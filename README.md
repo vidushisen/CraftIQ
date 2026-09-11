@@ -30,13 +30,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br/><br/>
 <div align="center">
-### 🧡 About CraftIQ 🧡
+ 🧡 About CraftIQ 🧡
 </div>
 <br/>
 > **CraftIQ** transforms any smartphone into a personal AI business assistant for rural artisans. It bridges traditional Indian craftsmanship with modern global markets through voice-guided listings and intelligent product valuation.
 <br/><br/>
 <div align="center">
-### ⚡ Key Features ⚡
+ ⚡ Key Features ⚡
 </div>
 <br/>
 * 🎙️ **Voice-Guided Listings**  
@@ -52,7 +52,7 @@
   Installs on any mobile device and functions smoothly even with weak rural internet connectivity.
 <br/><br/>
 <div align="center">
-### 🛠️ Tech Stack 🛠️
+ 🛠️ Tech Stack 🛠️
 </div>
 <br/>
 ✦ React 18 ✦ TypeScript ✦ Tailwind CSS ✦ Web Speech API ✦ Vite PWA
