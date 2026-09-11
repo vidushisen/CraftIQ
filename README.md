@@ -2,25 +2,31 @@
 <!-- HERO BOX -->
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0f141c&stroke=FF6B00&strokeWidth=2&height=160&section=header&text=%E2%9C%A6%20Welcome%20to%20CraftIQ%20%E2%9C%A6&fontSize=42&fontColor=FF8C00&fontAlignY=50" width="100%"/>
 <br/><br/>
-<!-- ANIMATED FEATURES IN POINTS (NO REDIRECT LINK) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFA500&center=true&vCenter=true&width=650&lines=%E2%9C%A6+%F0%9F%8E%99%EF%B8%8F+Voice+AI+for+Local+Artisans;%E2%9C%A6+%F0%9F%A7%A0+Smart+Craft+Valuation+%26+Fair+Pricing;%E2%9C%A6+%F0%9F%8C%8D+Direct+Global+Marketplace+Linkage;%E2%9C%A6+%F0%9F%93%B1+100%25+Offline+Progressive+Web+App" alt="CraftIQ Features" />
+<!-- ANIMATED FEATURES TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFA500&center=true&vCenter=true&width=650&lines=Voice+AI+for+Local+Artisans;Smart+Craft+Valuation+%26+Fair+Pricing;Direct+Global+Marketplace+Linkage;100%25+Offline+Progressive+Web+App" alt="CraftIQ Features" />
 <br/><br/>
-<!-- ORANGE & DARK THEME BADGES -->
-[![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=FF8C00)](https://reactjs.org/)
+<!-- CLEAN BADGES -->
+<a href="https://react.dev">
+  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=FF8C00" alt="React"/>
+</a>
 &nbsp;
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<a href="https://www.typescriptlang.org">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</a>
 &nbsp;
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+<a href="https://tailwindcss.com">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</a>
 &nbsp;
-[![PWA](https://img.shields.io/badge/PWA-100%25_Offline-FF5722?style=for-the-badge&logo=pwa&logoColor=white)]()
+<img src="https://img.shields.io/badge/PWA-100%25_Offline-FF5722?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
 <br/><br/>
 <!-- BIG ACTION BUTTONS -->
 <a href="https://craft-iq-kjuo-6n83tzww8-vidushisen.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/▶_LIVE_DEMO_(VERCEL)-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/▶_LIVE_DEMO_(VERCEL)-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Live Demo"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/vidushisen/CraftIQ/stargazers">
-  <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-FF9800?style=for-the-badge&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-FF9800?style=for-the-badge&logoColor=black" height="40" alt="Star Repo"/>
 </a>
 <br/><br/>
 </div>
@@ -40,17 +46,17 @@
 * 🎙️ **Voice-Guided Listings** =  
   Artisans simply describe their craft by speaking in local regional languages — zero typing required.
 <br/>
-* 🧠 **Intelligent Valuation** =  
+* 🧠 **Intelligent Valuation** =
   AI evaluates weave density, raw materials, and intricacy to recommend fair market selling prices.
 <br/>
 * 🌍 **Global Market Discovery** =  
   Auto-generates clean catalogs and tags to connect artisan crafts directly with niche buyers.
 <br/>
-* 📱 **100% Offline PWA** =  
+* 📱 **100% Offline PWA** =
   Installs on any mobile device and functions smoothly even with weak rural internet connectivity.
 <br/><br/>
 <div align="center">
-🛠️ Tech Stack 🛠️
+ 🛠️ Tech Stack 🛠️
 </div>
 <br/>
 ✦ React 18 ✦ TypeScript ✦ Tailwind CSS ✦ Web Speech API ✦ Vite PWA
