@@ -1,85 +1,92 @@
 <div align="center">
-<!-- HERO BOX -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0f141c&stroke=FF6B00&strokeWidth=2&height=160&section=header&text=%E2%9C%A6%20Welcome%20to%20CraftIQ%20%E2%9C%A6&fontSize=42&fontColor=FF8C00&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,24&height=180&section=header&text=%E2%9C%A6%20Welcome%20to%20CraftIQ%20%E2%9C%A6&fontSize=34&fontAlignY=45&fontColor=ffffff&desc=Turn%20Raw%20Ideas%20Into%20Production-Ready%20Code&descAlignY=68&descSize=16&descAlign=50" width="100%" alt="CraftIQ Header"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF6B00&center=true&vCenter=true&width=750&lines=%E2%9C%A6+AI-Powered+Component+Generator+%E2%9C%A6;%E2%9C%A6+Instant+Live+Interactive+Code+Preview+%E2%9C%A6;%E2%9C%A6+Tailwind+CSS+%2B+Modern+React+Stack+%E2%9C%A6;%E2%9C%A6+One-Click+Export+Ready-to-Use+Code+%E2%9C%A6" alt="CraftIQ Typing Animated"/>
 <br/><br/>
-<!-- ANIMATED FEATURES TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFA500&center=true&vCenter=true&width=650&lines=%E2%9C%A6+%F0%9F%8E%99%EF%B8%8F+Voice+AI+for+Local+Artisans;%E2%9C%A6+%F0%9F%A7%A0+Smart+Craft+Valuation+%26+Fair+Pricing;%E2%9C%A6+%F0%9F%8C%8D+Direct+Global+Marketplace+Linkage;%E2%9C%A6+%F0%9F%93%B1+100%25+Offline+Progressive+Web+App" alt="CraftIQ Features" />
-<br/><br/>
-<!-- CLEAN BADGES -->
-<a href="https://react.dev">
-  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=FF8C00" alt="React"/>
-</a>
-&nbsp;
-<a href="https://www.typescriptlang.org">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</a>
-&nbsp;
-<a href="https://tailwindcss.com">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/PWA-100%25_Offline-FF5722?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
-<br/><br/>
-<!-- BIG ACTION BUTTONS -->
 <a href="https://craft-iq-kjuo-6n83tzww8-vidushisen.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/▶_LIVE_DEMO_(VERCEL)-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Live Demo"/>
+  <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-VISIT%20NOW-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/vidushisen/CraftIQ/stargazers">
-  <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-FF9800?style=for-the-badge&logoColor=black" height="40" alt="Star Repo"/>
+  <img src="https://img.shields.io/github/stars/vidushisen/CraftIQ?style=for-the-badge&color=FFA500&logo=github&logoColor=white" alt="Stars"/>
+</a>
+<a href="https://github.com/vidushisen/CraftIQ/network/members">
+  <img src="https://img.shields.io/github/forks/vidushisen/CraftIQ?style=for-the-badge&color=FF4500&logo=github&logoColor=white" alt="Forks"/>
+</a>
+<a href="https://github.com/vidushisen/CraftIQ/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/License-MIT-222222?style=for-the-badge" alt="License"/>
 </a>
 <br/><br/>
-</div>
-<!-- SLEEK DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<br/><br/>
-<div align="center">
-🧡 About CraftIQ 🧡
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider"/>
 </div>
 <br/>
- ** CraftIQ ** transforms any smartphone into a personal AI business assistant for rural artisans. It bridges traditional Indian craftsmanship with modern global markets through voice-guided listings and intelligent product valuation.
-<br/><br/>
 <div align="center">
+🧡 About The Project 🧡
+</div>
+<br/>
+** CraftIQ ** is an ultra-modern, AI-driven component generation platform engineered to supercharge frontend development workflows. It eliminates repetitive boilerplate coding by converting natural language prompts into clean, scalable, and responsive UI components in real time.
+Whether you need complex dashboard layouts, sleek interactive cards, or navigation bars, CraftIQ produces accessible, modular code that you can preview instantly and integrate directly into your projects.
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider"/>
 ⚡ Key Features ⚡
 </div>
 <br/>
-* 🎙️ ** Voice-Guided Listings ** =  
-  Artisans simply describe their craft by speaking in local regional languages — zero typing required.
+- 🧠 AI-Assisted Generation: Transform simple conversational prompts into production-grade React components.
+- ⚡ Live Interactive Sandbox: Test responsiveness, interactions, and aesthetics in a live preview environment.
+- 🎨 Utility-First Styling: Clean, modern, and easily customizable styling with Tailwind CSS.
+- 📋 Seamless One-Click Copy: Copy ready-to-use JSX/HTML code directly into your clipboard.
+- 📱 Fully Responsive Layouts: Optimized out of the box for mobile, tablet, and desktop screens.
 <br/>
-* 🧠 ** Intelligent Valuation ** =  
-  AI evaluates weave density, raw materials, and intricacy to recommend fair market selling prices.
-<br/>
-* 🌍 ** Global Market Discovery ** =  
-  Auto-generates clean catalogs and tags to connect artisan crafts directly with niche buyers.
-<br/>
-* 📱 ** 100% Offline PWA ** =  
-  Installs on any mobile device and functions smoothly even with weak rural internet connectivity.
-<br/><br/>
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider"/>
 🛠️ Tech Stack 🛠️
 </div>
 <br/>
-```
-✦ React 18       ✦ TypeScript       ✦ Tailwind CSS       ✦ Web Speech API       ✦ Vite PWA
-```
+<div align="center">
+<a href="https://react.dev">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</a>
+<a href="https://tailwindcss.com">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</a>
+<a href="https://vitejs.dev">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+<a href="https://vercel.com">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</a>
+</div>
 <br/><br/>
 <div align="center">
-🚀 Quick Run 🚀
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider"/>
+🚀 Quick Start (Local Setup) 🚀
 </div>
 <br/>
 
- 1. Clone repository
+ 1. Clone the repository
 git clone https://github.com/vidushisen/CraftIQ.git
- 2. Enter folder
+ 2. Navigate to the project directory
 cd CraftIQ
- 3. Install & Start
-npm install && npm run dev
+ 3. Install all project dependencies
+npm install
+ 4. Start the local development server
+npm run dev
 ```
-<br/><br/>
-<div align="center">
-### ⭐ Support & Feedback ⭐
-</div>
 <br/>
-```text
-✦ If you like this project, please consider giving it a Star! ⭐ ✦
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider"/>
+⭐ Support & Feedback ⭐
+<br/>
+<font color="#FF6B00"><b>⭐ If you like this project, please consider giving it a Star! ⭐</b></font>
+<br/><br/>
+Developed with passion by **[Vidushi Sen](https://github.com/vidushisen)**
+<br/>
+<a href="https://github.com/vidushisen">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=100&section=footer" width="100%" alt="Footer"/>
+</div>
