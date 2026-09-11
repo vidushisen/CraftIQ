@@ -78,11 +78,11 @@ npm run dev
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider"/>
-⭐ Support & Feedback ⭐
+ ⭐ Support & Feedback ⭐ 
 <br/>
-<font color="#FF6B00"><b>⭐ If you like this project, please consider giving it a Star! ⭐</b></font>
+<font color="#FF6B00"><b> ⭐ If you like this project, please consider giving it a Star! ⭐ </b></font>
 <br/><br/>
-Developed with passion by **[Vidushi Sen](https://github.com/vidushisen)**
+Developed with passion by: [Vidushi Sen](https://github.com/vidushisen)
 <br/>
 <a href="https://github.com/vidushisen">
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
