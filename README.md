@@ -1,11 +1,9 @@
 <div align="center">
-<!-- HERO BOX (Like your Profile README) -->
+<!-- HERO BOX -->
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0f141c&stroke=FF6B00&strokeWidth=2&height=160&section=header&text=%E2%9C%A6%20Welcome%20to%20CraftIQ%20%E2%9C%A6&fontSize=42&fontColor=FF8C00&fontAlignY=50" width="100%"/>
 <br/><br/>
-<!-- ANIMATED FEATURES TYPING (ONE BY ONE) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=FFA500&center=true&vCenter=true&width=650&lines=🎙️+Voice+AI+for+Local+Artisans;🧠+Smart+Craft+Valuation+%26+Fair+Pricing;🌍+Direct+Global+Marketplace+Linkage;📱+100%25+Offline+Progressive+Web+App" alt="Typing SVG" />
-</a>
+<!-- ANIMATED FEATURES IN POINTS (NO REDIRECT LINK) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFA500&center=true&vCenter=true&width=650&lines=%E2%9C%A6+%F0%9F%8E%99%EF%B8%8F+Voice+AI+for+Local+Artisans;%E2%9C%A6+%F0%9F%A7%A0+Smart+Craft+Valuation+%26+Fair+Pricing;%E2%9C%A6+%F0%9F%8C%8D+Direct+Global+Marketplace+Linkage;%E2%9C%A6+%F0%9F%93%B1+100%25+Offline+Progressive+Web+App" alt="CraftIQ Features" />
 <br/><br/>
 <!-- ORANGE & DARK THEME BADGES -->
 [![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=FF8C00)](https://reactjs.org/)
@@ -30,13 +28,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br/><br/>
 <div align="center">
- 🧡 About CraftIQ 🧡
+🧡 About CraftIQ 🧡
 </div>
 <br/>
 > **CraftIQ** transforms any smartphone into a personal AI business assistant for rural artisans. It bridges traditional Indian craftsmanship with modern global markets through voice-guided listings and intelligent product valuation.
 <br/><br/>
 <div align="center">
- ⚡ Key Features ⚡
+⚡ Key Features ⚡
 </div>
 <br/>
 * 🎙️ **Voice-Guided Listings**  
@@ -52,7 +50,7 @@
   Installs on any mobile device and functions smoothly even with weak rural internet connectivity.
 <br/><br/>
 <div align="center">
- 🛠️ Tech Stack 🛠️
+🛠️ Tech Stack 🛠️
 </div>
 <br/>
 ✦ React 18 ✦ TypeScript ✦ Tailwind CSS ✦ Web Speech API ✦ Vite PWA
@@ -61,7 +59,7 @@
 
 <br/><br/>
 <div align="center">
- 🚀 Quick Run 🚀
+🚀 Quick Run 🚀
 </div>
 <br/>
 ```bash
