@@ -31,15 +31,15 @@ Whether you need complex dashboard layouts, sleek interactive cards, or navigati
 ⚡ Key Features ⚡
 </div>
 <br/>
-- 🧠 AI-Assisted Generation: Transform simple conversational prompts into production-grade React components.
+> 🧠 AI-Assisted Generation: Transform simple conversational prompts into production-grade React components.
 
-- ⚡ Live Interactive Sandbox: Test responsiveness, interactions, and aesthetics in a live preview environment.
+> ⚡ Live Interactive Sandbox: Test responsiveness, interactions, and aesthetics in a live preview environment.
  
-- 🎨 Utility-First Styling: Clean, modern, and easily customizable styling with Tailwind CSS.
+> 🎨 Utility-First Styling: Clean, modern, and easily customizable styling with Tailwind CSS.
  
-- 📋 Seamless One-Click Copy: Copy ready-to-use JSX/HTML code directly into your clipboard.
+> 📋 Seamless One-Click Copy: Copy ready-to-use JSX/HTML code directly into your clipboard.
  
-- 📱 Fully Responsive Layouts: Optimized out of the box for mobile, tablet, and desktop screens.
+> 📱 Fully Responsive Layouts: Optimized out of the box for mobile, tablet, and desktop screens.
  
 <br/>
 <div align="center">
