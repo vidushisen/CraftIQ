@@ -89,7 +89,9 @@ npm run dev
 <br/><br/>
 Developed with passion by: [Vidushi Sen](https://github.com/vidushisen)
 <br/>
+  
 <a href="https://github.com/vidushisen">
+  
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 <br/><br/>
