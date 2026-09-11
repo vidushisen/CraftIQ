@@ -37,22 +37,22 @@
 🧡 About CraftIQ 🧡
 </div>
 <br/>
-> **CraftIQ** transforms any smartphone into a personal AI business assistant for rural artisans. It bridges traditional Indian craftsmanship with modern global markets through voice-guided listings and intelligent product valuation.
+** CraftIQ ** transforms any smartphone into a personal AI business assistant for rural artisans. It bridges traditional Indian craftsmanship with modern global markets through voice-guided listings and intelligent product valuation.
 <br/><br/>
 <div align="center">
 ⚡ Key Features ⚡
 </div>
 <br/>
-* 🎙️ **Voice-Guided Listings** =  
+* 🎙️ ** Voice-Guided Listings ** =  
   Artisans simply describe their craft by speaking in local regional languages — zero typing required.
 <br/>
-* 🧠 **Intelligent Valuation** =
+* 🧠 ** Intelligent Valuation ** =
   AI evaluates weave density, raw materials, and intricacy to recommend fair market selling prices.
 <br/>
-* 🌍 **Global Market Discovery** =  
+* 🌍 ** Global Market Discovery ** =  
   Auto-generates clean catalogs and tags to connect artisan crafts directly with niche buyers.
 <br/>
-* 📱 **100% Offline PWA** =
+* 📱 ** 100% Offline PWA ** =
   Installs on any mobile device and functions smoothly even with weak rural internet connectivity.
 <br/><br/>
 <div align="center">
