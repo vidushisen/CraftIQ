@@ -61,7 +61,7 @@
 
 <br/><br/>
 <div align="center">
-### 🚀 Quick Run 🚀
+ 🚀 Quick Run 🚀
 </div>
 <br/>
 ```bash
