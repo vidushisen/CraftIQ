@@ -70,7 +70,7 @@ Whether you need complex dashboard layouts, sleek interactive cards, or navigati
 🚀 Quick Start (Local Setup) 🚀
 </div>
 <br/>
-'''bash
+
  1. Clone the repository
 git clone https://github.com/vidushisen/CraftIQ.git
  2. Navigate to the project directory
@@ -79,7 +79,7 @@ cd CraftIQ
 npm install
  4. Start the local development server
 npm run dev
-```
+
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider"/>
@@ -93,7 +93,10 @@ Developed with passion by: [Vidushi Sen](https://github.com/vidushisen)
 <a href="https://github.com/vidushisen">
   
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  
 </a>
 <br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=100&section=footer" width="100%" alt="Footer"/>
+
 </div>
