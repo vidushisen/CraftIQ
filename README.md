@@ -65,7 +65,7 @@ Whether you need complex dashboard layouts, sleek interactive cards, or navigati
 🚀 Quick Start (Local Setup) 🚀
 </div>
 <br/>
-
+'''bash
  1. Clone the repository
 git clone https://github.com/vidushisen/CraftIQ.git
  2. Navigate to the project directory
